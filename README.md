@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white
+![]([URL_링크](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white))
+
 
 <!--
 **parkjoohyoung/parkjoohyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
